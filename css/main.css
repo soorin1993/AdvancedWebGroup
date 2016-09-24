@@ -129,8 +129,8 @@ body {
 
 #title {
 	
-	margin-top: 0;
-	margin-bottom: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 	margin-left: -20px;
 	text-align: center;
 	color: red;
@@ -194,6 +194,7 @@ body {
 #story {
 	
 	padding: 0 20px;
+	padding-bottom: 20px;
 }
 
 
