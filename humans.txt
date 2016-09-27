@@ -5,11 +5,17 @@
 
     <name> -- <role> -- <twitter>
 
+    Developer: Mari 
+    Twitter: @amandabynes 
+    Website: mariyamaguchi.net
+    Location: Boulder, CO
+
 # THANKS
 
-    <name>
+    World Wide Web peoples 
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
+
