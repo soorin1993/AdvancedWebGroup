@@ -183,6 +183,8 @@ sub {
  */
 
 img {
+  position:center center;
+  size:cover;
   border: 0;
 }
 
