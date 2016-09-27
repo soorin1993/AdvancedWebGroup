@@ -116,7 +116,11 @@ body {
 			red 30px,
 			red 60px
 		); */
-	background-color: black;
+	/*background-color: black;*/
+    background-image:url(img/background.jpg);
+            background-position:center center;
+            /*background-size:cover; */
+            background-repeat:;
 }
 
 #story-container {
@@ -201,7 +205,7 @@ body {
 p {
 	
 	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
+	font-size: 14px;
 	text-align: center;
 	margin: 30px 0;
 	
