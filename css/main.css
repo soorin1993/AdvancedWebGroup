@@ -371,7 +371,7 @@ p {
     }
 
     img {
-        max-width: 100% !important;
+        /*max-width: 100% !important;*/
         position:center center;
         size:cover;
     }
