@@ -371,9 +371,9 @@ p {
     }
 
     img {
-        /*max-width: 100% !important;*/
-        position:center center;
+        max-width: 100% !important;
         size:cover;
+        background-repeat:;
     }
 
     p,
