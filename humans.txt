@@ -10,6 +10,10 @@
     Website: mariyamaguchi.net
     Location: Boulder, CO
 
+
+	Developer: Hannah 
+	Location: Boulder, CO
+
 # THANKS
 
     World Wide Web peoples 
