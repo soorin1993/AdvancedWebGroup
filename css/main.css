@@ -116,11 +116,8 @@ body {
 			red 30px,
 			red 60px
 		); */
-	/*background-color: black;*/
-    background-image:url(img/background.jpg);
-            background-position:center center;
-            /*background-size:cover; */
-            background-repeat:;
+	background-color: black;
+
 }
 
 #story-container {
